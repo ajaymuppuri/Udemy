@@ -1,0 +1,4 @@
+1. Find whether two strings are isometric or not. 
+   For example 'ajay' and 'klkv' are isometric but 'ajaya' and 'klkvq' are not
+
+2. Implement the power function in java given two integers
